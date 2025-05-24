@@ -1,5 +1,4 @@
  20 | enginner  
- 99% introvert, 1% identity crisis
 <!--
 **whysooharsh/whysooharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
